@@ -1,2 +1,2 @@
 # MovellaXC
-Code for the MovellaXCSki Challenge
+Code for the Movella Cross Country Ski Challenge 2023
