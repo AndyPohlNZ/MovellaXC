@@ -13,7 +13,7 @@ import quaternion
 # Default colors
 CMAP = get_cmap("tab10")
 # data directory
-DATA_DIR = "/Users/andy/Dropbox/PhD-Calgary/Projects/P21_KrossKountryKinomatics/Case Study Kit/Recordings/"
+DATA_DIR = "/"
 # Subject table
 SUBJECT_TABLE = DATA_DIR + "subjects.csv"
 
